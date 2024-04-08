@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">
-  <img src='https://counter.seku.su/cmoe?name=Rez4-4&theme=r34' width="400px">
-  
+
+  <p align="center">
+  <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
