@@ -15,10 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-</div>
 
-
-<img align='right' src='https://counter.seku.su/c302?' width='400px'>
 
 <p align="center">
   <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
